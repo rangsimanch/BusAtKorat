@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Korat Minivans</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="start_location">Start Poitn</string>
+    <string name="end_location">Destination</string>
+    <string name="btn_go">Go</string>
+    <string name="setting_language">Language</string>
+    <string name="language">English</string>
+    <string name="reapp">Do you want to change language?</string>
+    <string name="con">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="bus_start">Start Point</string>
+    <string name="bus_end">End Point</string>
+    <string name="price">Price : </string>
+    <string name="price_special">Start at</string>
+    <string name="baht">Baht</string>
+    <string name="station_core">You to change buses at the </string>
+    <string name="from">From</string>
+    <string name="to">to</string>
+    <string name="start_point">Start Point</string>
+    <string name="end_point">Destination</string>
+
+    <string name="google_form">
+        <a href='https://goo.gl/forms/NSLoM7vMyyWCJGl53'>
+            Evaluation of application
+        </a>
+    </string>
+
+    <string name="gmail">
+        <a href='rangsiman.ch@hotmail.com'>
+            G-MAIL
+        </a>
+    </string>
+
+    <string name="facebook">
+        <a href='www.faecbook.com/khun.rangsiman'>
+        FACEBOOK
+        </a>
+    </string>
+
+    <string name="credit">
+        <a href='www.facebook.com/pickiezilverlight'>
+    CREDIT
+        </a>
+    </string>
+
+    <string name="check_data">Please complete the form</string>
+    <string name="nearby">Nearby MiniVans</string>
+    <string name="result">Result</string>
+    <string name="number_bus">Bus number</string>
+    <string name="timeout">Out of service time.</string>
+    <string name="timeopen">On duty time.</string>
+    <string name="time">Service time : </string>
+
+
+    <string name="SQL_query_nameBusStop">
+        SELECT name_busstop_eng FROM BusStop
+    </string>
+
+    <string name="SQL_query_BusListData">
+        SELECT
+        id_bus,
+        name_bus_eng,
+        img_front_bus,
+        ic_bus,
+        busstop_eng,
+        price,
+        time_start,
+        time_stop
+        FROM Bus
+    </string>
+
+    <string name="SQL_query_BusStopListData">
+        SELECT
+        id_busstop,
+        name_busstop_eng,
+        latitude,
+        longtitude
+        FROM
+        BusStop
+    </string>
+
+</resources>

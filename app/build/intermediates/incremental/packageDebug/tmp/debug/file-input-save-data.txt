@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu May 31 15:37:46 ICT 2018
+1.base=D\:\\Final Project\\BusAtKorat\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\51
+2.path=BusDatabase.sql
+0.baseType=DIRECTORY
+2.base=D\:\\Final Project\\BusAtKorat\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=BusDatabase.sqlite
+0.set=ASSET
+0.base=D\:\\Final Project\\BusAtKorat\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=classes.dex

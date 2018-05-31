@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\BusAtKorat\\TheCheeseLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\JC\\.android\\build-cache\\d67bbde05bb9d55ed9a8663d6055a2fcc2f2b89c\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\BusAtKorat\\TheCheeseLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\JC\\.android\\build-cache\\d67bbde05bb9d55ed9a8663d6055a2fcc2f2b89c\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\BusAtKorat\\TheCheeseLibrary\\build\\intermediates\\res\\merged\\release\\color\\selector.xml",
+        "source": "D:\\BusAtKorat\\TheCheeseLibrary\\src\\main\\res\\color\\selector.xml"
+    },
+    {
+        "merged": "D:\\BusAtKorat\\TheCheeseLibrary\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\JC\\.android\\build-cache\\d67bbde05bb9d55ed9a8663d6055a2fcc2f2b89c\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\BusAtKorat\\TheCheeseLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\JC\\.android\\build-cache\\d67bbde05bb9d55ed9a8663d6055a2fcc2f2b89c\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\BusAtKorat\\TheCheeseLibrary\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\JC\\.android\\build-cache\\d67bbde05bb9d55ed9a8663d6055a2fcc2f2b89c\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\BusAtKorat\\TheCheeseLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\JC\\.android\\build-cache\\d67bbde05bb9d55ed9a8663d6055a2fcc2f2b89c\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\BusAtKorat\\TheCheeseLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\JC\\.android\\build-cache\\d67bbde05bb9d55ed9a8663d6055a2fcc2f2b89c\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\BusAtKorat\\TheCheeseLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\JC\\.android\\build-cache\\d67bbde05bb9d55ed9a8663d6055a2fcc2f2b89c\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\BusAtKorat\\TheCheeseLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\JC\\.android\\build-cache\\d67bbde05bb9d55ed9a8663d6055a2fcc2f2b89c\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    }
+]

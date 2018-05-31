@@ -1,0 +1,4 @@
+#Wed May 23 02:45:29 ICT 2018
+base.0=D\:\\Final Project\\BusAtKorat\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\35
+path.0=classes.dex
+renamed.0=classes.dex

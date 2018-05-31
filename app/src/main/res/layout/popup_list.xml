@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="430dp"
+    android:layout_gravity="center"
+    android:background="@drawable/border"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="190dp">
+
+            <ImageView
+                android:id="@+id/imgBus"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:src="@drawable/bg_mapblur"
+                android:backgroundTint="#969694"
+                />
+            <ImageView
+                android:id="@+id/icBus"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center_horizontal|bottom"
+                android:src="@drawable/ic_map_green_36dp"
+                android:background="@drawable/bg_circle"
+                android:backgroundTint="@color/cpb_white"
+                />
+
+        </FrameLayout>
+
+
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:text="Name Sample"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtBusstop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="BusStop BusStop BusStop BusStop BusStop BusStop BusStop BusStop BusStop BusStop BusStop BusStop BusStop BusStop BusStop BusStop BusStop BusStop BusStop" />
+
+        <TextView
+            android:id="@+id/txtPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            />
+
+        <TextView
+            android:id="@+id/txtTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            />
+
+
+    </LinearLayout>
+
+</LinearLayout>

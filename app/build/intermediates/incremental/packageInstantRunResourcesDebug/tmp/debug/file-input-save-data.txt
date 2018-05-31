@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue May 15 01:12:00 PDT 2018
+1.base=D\:\\Final Project\\BusAtKorat\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=BusDatabase.sqlite
+0.set=ASSET
+0.base=D\:\\Final Project\\BusAtKorat\\app\\build\\intermediates\\assets\\debug
+1.path=BusDatabase.sql

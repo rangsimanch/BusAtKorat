@@ -1,0 +1,7 @@
+#Sun Dec 10 03:35:12 ICT 2017
+base.0=D\:\\BusAtKorat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ffcf51e381fbc2687545e0a68b121faeb04c9257
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\BusAtKorat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9acb9bbf55d0b9ee818c24ace9a4bff40ac9f333\\classes.dex
+base.1=D\:\\BusAtKorat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9acb9bbf55d0b9ee818c24ace9a4bff40ac9f333
+file.0=D\:\\BusAtKorat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ffcf51e381fbc2687545e0a68b121faeb04c9257\\classes.dex

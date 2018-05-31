@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\BusAtKorat\\TheCheeseLibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\JC\\.android\\build-cache\\d67bbde05bb9d55ed9a8663d6055a2fcc2f2b89c\\output\\res\\values-w360dp-v13\\values-w360dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]

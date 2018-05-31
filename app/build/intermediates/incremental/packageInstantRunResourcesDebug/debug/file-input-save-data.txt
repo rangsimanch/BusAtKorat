@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Jan 14 04:10:53 ICT 2018
+1.base=E\:\\Android_Project\\BusAtKorat\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=BusDatabase.sql
+0.set=ASSET
+0.base=E\:\\Android_Project\\BusAtKorat\\app\\build\\intermediates\\assets\\debug
+1.path=BusDatabase.sqlite
